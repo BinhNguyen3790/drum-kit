@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url("./stage-background.jpg") bottom center;
+  background: url("./imgs/stage-background.jpg") bottom center;
   background-size: cover;
 }
 
@@ -30,7 +30,7 @@ html {
   color: #000000;
   text-shadow: 0 0 0.5rem black;
   cursor: pointer;
-  background-image: url(./keydrum.png);
+  background-image: url(./imgs/keydrum.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
